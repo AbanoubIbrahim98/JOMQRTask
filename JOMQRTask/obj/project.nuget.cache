@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvHrvtBmTuwEn7tLZmjk+rOHw5O+xm88B8mK9tJcQWkvgtKS690jZe3g1YVHawuFMotji3q/S+4nyuq+QvKkZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shnou\\Desktop\\JOMQRTask\\JOMQRTask\\JOMQRTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shnou\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\shnou\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\shnou\\.nuget\\packages\\qrcoder\\1.4.1\\qrcoder.1.4.1.nupkg.sha512",
+    "C:\\Users\\shnou\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
