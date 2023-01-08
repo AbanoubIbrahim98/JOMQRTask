@@ -22,3 +22,27 @@ C:\Users\shnou\Desktop\JOMQRTask\JOMQRTask\obj\Debug\net5.0\refint\JOMQRTask.dll
 C:\Users\shnou\Desktop\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.pdb
 C:\Users\shnou\Desktop\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.genruntimeconfig.cache
 C:\Users\shnou\Desktop\JOMQRTask\JOMQRTask\obj\Debug\net5.0\ref\JOMQRTask.dll
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\bin\Debug\net5.0\appsettings.json
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\bin\Debug\net5.0\JOMQRTask.exe
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\bin\Debug\net5.0\JOMQRTask.deps.json
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\bin\Debug\net5.0\JOMQRTask.runtimeconfig.json
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\bin\Debug\net5.0\JOMQRTask.runtimeconfig.dev.json
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\bin\Debug\net5.0\JOMQRTask.dll
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\bin\Debug\net5.0\JOMQRTask.pdb
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\bin\Debug\net5.0\QRCoder.dll
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.csproj.AssemblyReference.cache
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.AssemblyInfoInputs.cache
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.AssemblyInfo.cs
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.csproj.CoreCompileInputs.cache
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\scopedcss\bundle\JOMQRTask.styles.css
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\staticwebassets\JOMQRTask.StaticWebAssets.Manifest.cache
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.RazorTargetAssemblyInfo.cache
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.csproj.CopyComplete
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.dll
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\refint\JOMQRTask.dll
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.pdb
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\JOMQRTask.genruntimeconfig.cache
+C:\Users\shnou\Desktop\DotNet ASP.Core\Task2\JOMQRTask\JOMQRTask\obj\Debug\net5.0\ref\JOMQRTask.dll

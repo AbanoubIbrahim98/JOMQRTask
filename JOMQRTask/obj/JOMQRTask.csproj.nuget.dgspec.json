@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shnou\\Desktop\\JOMQRTask\\JOMQRTask\\JOMQRTask.csproj": {}
+    "C:\\Users\\shnou\\Desktop\\DotNet ASP.Core\\Task2\\JOMQRTask\\JOMQRTask\\JOMQRTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shnou\\Desktop\\JOMQRTask\\JOMQRTask\\JOMQRTask.csproj": {
+    "C:\\Users\\shnou\\Desktop\\DotNet ASP.Core\\Task2\\JOMQRTask\\JOMQRTask\\JOMQRTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shnou\\Desktop\\JOMQRTask\\JOMQRTask\\JOMQRTask.csproj",
+        "projectUniqueName": "C:\\Users\\shnou\\Desktop\\DotNet ASP.Core\\Task2\\JOMQRTask\\JOMQRTask\\JOMQRTask.csproj",
         "projectName": "JOMQRTask",
-        "projectPath": "C:\\Users\\shnou\\Desktop\\JOMQRTask\\JOMQRTask\\JOMQRTask.csproj",
+        "projectPath": "C:\\Users\\shnou\\Desktop\\DotNet ASP.Core\\Task2\\JOMQRTask\\JOMQRTask\\JOMQRTask.csproj",
         "packagesPath": "C:\\Users\\shnou\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shnou\\Desktop\\JOMQRTask\\JOMQRTask\\obj\\",
+        "outputPath": "C:\\Users\\shnou\\Desktop\\DotNet ASP.Core\\Task2\\JOMQRTask\\JOMQRTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shnou\\AppData\\Roaming\\NuGet\\NuGet.Config",

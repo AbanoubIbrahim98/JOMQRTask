@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hvHrvtBmTuwEn7tLZmjk+rOHw5O+xm88B8mK9tJcQWkvgtKS690jZe3g1YVHawuFMotji3q/S+4nyuq+QvKkZw==",
+  "dgSpecHash": "RXCxcQ6lhFEx1ko+D1G1TwA3+2mDylDacbRA3o4zWbNaGb3hHavAeMihFZOX9HbrSGECAmxs3VnCz0N258k/wA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shnou\\Desktop\\JOMQRTask\\JOMQRTask\\JOMQRTask.csproj",
+  "projectFilePath": "C:\\Users\\shnou\\Desktop\\DotNet ASP.Core\\Task2\\JOMQRTask\\JOMQRTask\\JOMQRTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shnou\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\shnou\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

@@ -27,11 +27,19 @@ namespace JOMQRTask.Controllers
         }
 
 
-        ///api/QRCode/GenerateQRCode?QRCodeText=wellcom
+        ///api/QRCode/GenerateQRCode?QRCodeText=welcome
 
+        //ctor
 
         //api fun for generate text to qr**********************
         [HttpGet("GenerateQRCode")]
+        /* to add new text or QR or info*/
+        //[HttpPost("GenerateQRCode")]
+        /* To update for existed data  */
+        //[HttpPut("GenerateQRCode")]
+        /* to edit in only row or column */
+        //[HttpPatch("GenerateQRCode")]
+
         public async Task<ActionResult> GenerateQRCode(String QRCodeText)
         {
 
@@ -43,6 +51,28 @@ namespace JOMQRTask.Controllers
             var bytes = ImageToByteArray(qrCodeImage);
 
             return File(bytes, "image/bmp");
+
+
+
+
+            /*public static byte[] SerializeImage()
+           {
+   MemoryStream m;
+   string PicPath = "pathToImage";
+   byte[] imageBytes;
+   using (Image image = Image.FromFile(PicPath))
+   {
+       using (m = new MemoryStream())
+       {
+           image.Save(m, image.RawFormat);
+           imageBytes = new byte[m.Length];
+           //Very Important    
+           imageBytes = m.ToArray();
+       }//end using
+   }//end using
+   return imageBytes;
+}//SerializeImage   */
+
 
         }
     }
